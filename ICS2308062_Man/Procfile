@@ -1,0 +1,1 @@
+web:gunicorn ICS2308062_Man.wsgi --log-file - 
